@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**WaloupGarou/WaloupGarou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Network & System Infrastructure Engineer
 
-Here are some ideas to get you started:
+Focusing on enterprise network architecture, BGP routing optimization, and transitioning towards Cloud automation for Orange. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Most of my daily engineering work (Terraform, Ansible, AWS/GCP config) is locked behind enterprise private repositories.
+* I use this small public profile to share my personnal network utility scripts, cron jobs, and lab benchmarks (and network labs in the futur).
+* Currently preparing for CCNP certification
+
+**Core Stack:**
+* **Networking:** Cisco IOS-XE, Fortinet SD-WAN, Juniper, BGP/OSPF
+* **Automation:** Python (Netmiko, NAPALM), Ansible, Terraform and CI/CD..
+* **Cloud & FinOps:** AWS (EKS, VPC Transit Gateways), Cost Modeling and Assessment
